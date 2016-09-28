@@ -88,7 +88,8 @@ save_new:
         message.copied: Nesne kopyalandı
     fieldset:
         legend.tooltip: >
-            Kopyalanan nesne için isim giriniz. Orjinal adını korumak için boş bırakın. Orjinal object id ya da ismini: \{\{id\}\} veya \{\{name\}\} ile girebilirsiniz.
+            "Kopyalanan nesne için isim giriniz. Orjinal adını korumak için boş bırakın. Orjinal object id ya da ismini: \{\{id\}\} veya \{\{name\}\} ile girebilirsiniz."
+
 import:
     action:
         new: Yeni
